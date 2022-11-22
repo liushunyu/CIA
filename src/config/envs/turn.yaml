@@ -1,0 +1,14 @@
+env: turn
+
+env_args:
+  map_name: 'turn'
+  time_limit: 100
+  is_token: False
+  seed: null
+
+test_greedy: True
+test_nepisode: 32
+test_interval: 10000
+log_interval: 10000
+runner_log_interval: 10000
+learner_log_interval: 10000
