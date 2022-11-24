@@ -4,7 +4,7 @@ Official codebase for paper [Contrastive Identity-Aware Learning for Multi-Agent
 
 
 
-## Prerequisites
+## 1. Prerequisites
 
 #### Install dependencies
 
@@ -24,7 +24,7 @@ The SMAC maps used for all experiments is in `CIA/src/envs/starcraft2/maps/SMAC_
 
 
 
-## Usage
+## 2. Usage
 
 Please follow the instructions below to replicate the results in the paper.
 
@@ -50,4 +50,17 @@ python src/main.py --config=cia_grad_qmix_[map_name] --env-config=sc2 with env_a
 
 # QPLEX (CIA)
 python src/main.py --config=cia_qplex_[map_name] --env-config=sc2 with env_args.map_name=[map_name]
+```
+
+## 3. Citation
+
+If you find this work useful for your research, please cite our paper:
+
+```
+@article{liu2023CIA,
+  title={Contrastive Identity-Aware Learning for Multi-Agent Value Decomposition},
+  author={Shunyu Liu and Yihe Zhou and Jie Song and Tongya Zheng and Kaixuan Chen and Tongtian Zhu and Zunlei Feng and Mingli Song},
+  journal={AAAI Conference on Artificial Intelligence},
+  year={2023}
+}
 ```
