@@ -59,7 +59,7 @@ If you find this work useful for your research, please cite our paper:
 ```
 @article{liu2023CIA,
   title={Contrastive Identity-Aware Learning for Multi-Agent Value Decomposition},
-  author={Shunyu Liu and Yihe Zhou and Jie Song and Tongya Zheng and Kaixuan Chen and Tongtian Zhu and Zunlei Feng and Mingli Song},
+  author={Liu, Shunyu and Zhou, Yihe and Song, Jie and Zheng, Tongya and Chen, Kaixuan and Zhu, Tongtian and Feng, Zunlei and Song, Mingli},
   journal={AAAI Conference on Artificial Intelligence},
   year={2023}
 }
