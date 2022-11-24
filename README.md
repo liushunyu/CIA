@@ -1,6 +1,6 @@
 # Contrastive Identity-Aware Learning for Multi-Agent Value Decomposition
 
-Official codebase for paper [Contrastive Identity-Aware Learning for Multi-Agent Value Decomposition](). This codebase is based on the open-source [PyMARL](https://github.com/oxwhirl/pymarl) framework and please refer to that repo for more documentation.
+Official codebase for paper [Contrastive Identity-Aware Learning for Multi-Agent Value Decomposition](https://arxiv.org/abs/2211.12712). This codebase is based on the open-source [PyMARL](https://github.com/oxwhirl/pymarl) framework and please refer to that repo for more documentation.
 
 
 
