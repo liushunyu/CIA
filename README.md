@@ -57,10 +57,10 @@ python src/main.py --config=cia_qplex_[map_name] --env-config=sc2 with env_args.
 If you find this work useful for your research, please cite our paper:
 
 ```
-@article{liu2023CIA,
+@inproceedings{liu2023CIA,
   title={Contrastive Identity-Aware Learning for Multi-Agent Value Decomposition},
   author={Liu, Shunyu and Zhou, Yihe and Song, Jie and Zheng, Tongya and Chen, Kaixuan and Zhu, Tongtian and Feng, Zunlei and Song, Mingli},
-  journal={AAAI Conference on Artificial Intelligence},
+  booktitle={AAAI Conference on Artificial Intelligence},
   year={2023}
 }
 ```
