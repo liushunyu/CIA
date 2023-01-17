@@ -59,6 +59,7 @@ class GradQMixer(nn.Module):
         q_tot = y.view(bs, -1, 1)
 
         # calculate the gradient (refer to GRE)
+        # https://github.com/sgzZ123/GRE/blob/master/src/modules/mixers/qmix_GRE.py
         hidden = F.elu(th.bmm(agent_qs.clone().detach(), w1) + b1)
         delu = th.ones_like(hidden)
         mask = hidden < 0
