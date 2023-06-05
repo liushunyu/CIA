@@ -4,6 +4,10 @@ Official codebase for paper [Contrastive Identity-Aware Learning for Multi-Agent
 
 
 
+![image](https://github.com/liushunyu/CIA/blob/main/poster.png)
+
+
+
 ## 1. Prerequisites
 
 #### Install dependencies
