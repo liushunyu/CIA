@@ -4,7 +4,7 @@ Official codebase for paper [Contrastive Identity-Aware Learning for Multi-Agent
 
 
 
-![image](https://github.com/liushunyu/CIA/blob/main/poster.png)
+![image](https://github.com/liushunyu/CIA/blob/master/poster.png)
 
 
 
