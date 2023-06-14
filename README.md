@@ -15,7 +15,7 @@ Official codebase for paper [Contrastive Identity-Aware Learning for Multi-Agent
 
 
 
-## 1. Prerequisites
+## Prerequisites
 
 #### Install dependencies
 
@@ -35,7 +35,7 @@ The SMAC maps used for all experiments is in `CIA/src/envs/starcraft2/maps/SMAC_
 
 
 
-## 2. Usage
+## Usage
 
 Please follow the instructions below to replicate the results in the paper.
 
@@ -63,7 +63,7 @@ python src/main.py --config=cia_grad_qmix_[map_name] --env-config=sc2 with env_a
 python src/main.py --config=cia_qplex_[map_name] --env-config=sc2 with env_args.map_name=[map_name]
 ```
 
-## 3. Citation
+## Citation
 
 If you find this work useful for your research, please cite our paper:
 
@@ -75,3 +75,7 @@ If you find this work useful for your research, please cite our paper:
   year={2023}
 }
 ```
+
+## Contact
+
+Please feel free to contact me via email (<liushunyu@zju.edu.cn>) if you are interested in my research :)
