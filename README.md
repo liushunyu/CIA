@@ -57,16 +57,16 @@ python src/main.py --config=cia_grad_qmix_turn --env-config=turn with env_args.m
 #### SMAC
 ```bash
 # QMIX
-python src/main.py --config=qmix_[map_name] --env-config=sc2 with env_args.map_name=[map_name]
+python src/main.py --config=qmix_<MAP_NAME> --env-config=sc2 with env_args.map_name=<MAP_NAME>
 
 # QPLEX
-python src/main.py --config=qplex_[map_name] --env-config=sc2 with env_args.map_name=[map_name]
+python src/main.py --config=qplex_<MAP_NAME> --env-config=sc2 with env_args.map_name=<MAP_NAME>
 
 # QMIX (CIA)
-python src/main.py --config=cia_grad_qmix_[map_name] --env-config=sc2 with env_args.map_name=[map_name] 
+python src/main.py --config=cia_grad_qmix_<MAP_NAME> --env-config=sc2 with env_args.map_name=<MAP_NAME>
 
 # QPLEX (CIA)
-python src/main.py --config=cia_qplex_[map_name] --env-config=sc2 with env_args.map_name=[map_name]
+python src/main.py --config=cia_qplex_<MAP_NAME> --env-config=sc2 with env_args.map_name=<MAP_NAME>
 ```
 
 ![image](https://github.com/liushunyu/CIA/blob/master/exp-smac.png)
