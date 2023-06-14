@@ -5,6 +5,10 @@
 
 Official codebase for paper [Contrastive Identity-Aware Learning for Multi-Agent Value Decomposition](https://arxiv.org/abs/2211.12712). This codebase is based on the open-source [PyMARL](https://github.com/oxwhirl/pymarl) framework and please refer to that repo for more documentation.
 
+<div align="center">
+<img src="https://github.com/liushunyu/CIA/blob/main/introduction.png" width="50%">
+</div>
+
 ## Overview
 
 **TLDR:** The first work identifies the ambiguous credit assignment problem in Value Decomposition (VD), a highly important ingredient for multi-agent diversity yet largely overlooked by existing literature. Moreover, we propose a novel contrastive identity-aware learning (CIA) method to promote diverse behaviors via explicitly encouraging credit-level distinguishability. The proposed CIA module imposes no constraints over the network architecture, and serves as a plug-and-play module readily applicable to various VD methods.
