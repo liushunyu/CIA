@@ -6,7 +6,7 @@
 Official codebase for paper [Contrastive Identity-Aware Learning for Multi-Agent Value Decomposition](https://arxiv.org/abs/2211.12712). This codebase is based on the open-source [PyMARL](https://github.com/oxwhirl/pymarl) framework and please refer to that repo for more documentation.
 
 <div align="center">
-<img src="https://github.com/liushunyu/CIA/blob/main/introduction.png" width="50%">
+<img src="https://github.com/liushunyu/CIA/blob/master/introduction.png" width="50%">
 </div>
 
 ## Overview
