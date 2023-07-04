@@ -77,10 +77,16 @@ If you find this work useful for your research, please cite our paper:
 
 ```
 @inproceedings{liu2023CIA,
-  title={Contrastive Identity-Aware Learning for Multi-Agent Value Decomposition},
-  author={Liu, Shunyu and Zhou, Yihe and Song, Jie and Zheng, Tongya and Chen, Kaixuan and Zhu, Tongtian and Feng, Zunlei and Song, Mingli},
-  booktitle={AAAI Conference on Artificial Intelligence},
-  year={2023}
+  title     = {Contrastive Identity-Aware Learning for Multi-Agent Value Decomposition},
+  author    = {Liu, Shunyu and Zhou, Yihe and Song, Jie and Zheng, Tongya and Chen, Kaixuan and Zhu, Tongtian and Feng, Zunlei and Song, Mingli},
+  booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
+  publisher = {{AAAI} Press},
+  volume    = {37},
+  number    = {10},
+  pages     = {11595-11603},
+  year      = {2023},
+  month     = {Jun.},
+  url       = {https://ojs.aaai.org/index.php/AAAI/article/view/26370}
 }
 ```
 
