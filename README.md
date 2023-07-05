@@ -86,6 +86,7 @@ If you find this work useful for your research, please cite our paper:
   pages     = {11595-11603},
   year      = {2023},
   month     = {Jun.},
+  doi       = {10.1609/aaai.v37i10.26370},
   url       = {https://ojs.aaai.org/index.php/AAAI/article/view/26370}
 }
 ```
