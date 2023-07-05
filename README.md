@@ -93,4 +93,4 @@ If you find this work useful for your research, please cite our paper:
 
 ## Contact
 
-Please feel free to contact me via email (<liushunyu@zju.edu.cn>) or wechat (<liushunyu1997>) if you are interested in my research :)
+Please feel free to contact me via email (<liushunyu@zju.edu.cn>) if you are interested in my research :)
