@@ -23,7 +23,7 @@ Official codebase for paper [Contrastive Identity-Aware Learning for Multi-Agent
 
 #### Install dependencies
 
-See `requirment.txt` file for more information about how to install the dependencies.
+See `requirments.txt` file for more information about how to install the dependencies.
 
 #### Install StarCraft II
 
