@@ -152,14 +152,14 @@ class CIAQLearner:
             self.target_mixer.cuda()
 
     def save_models(self, path):
-        self.identity.save_models(path)
+        th.save(self.identity.state_dict(), "{}/identity.th".format(path))
         self.mac.save_models(path)
         if self.mixer is not None:
             th.save(self.mixer.state_dict(), "{}/mixer.th".format(path))
         th.save(self.optimiser.state_dict(), "{}/opt.th".format(path))
 
     def load_models(self, path):
-        self.identity.load_models(path)
+        self.identity.load_state_dict(th.load("{}/identity.th".format(path), map_location=lambda storage, loc: storage))
         self.mac.load_models(path)
         # Not quite right but I don't want to save target networks
         self.target_mac.load_models(path)
