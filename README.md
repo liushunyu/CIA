@@ -83,7 +83,7 @@ If you find this work useful for your research, please cite our paper:
   publisher = {{AAAI} Press},
   volume    = {37},
   number    = {10},
-  pages     = {11595-11603},
+  pages     = {11595--11603},
   year      = {2023},
   month     = {Jun.},
   doi       = {10.1609/aaai.v37i10.26370},
